@@ -1,0 +1,25 @@
+
+body{
+    background-color: #f0f0f0;
+}
+header{
+    width: 100%;
+    background-color: #f0f0f0;
+}
+h1 {
+    text-align: center;
+    width: 100%; 
+}
+article{
+    display: block;
+    margin: auto;
+    height: 500px;
+    width: 500px;
+}
+
+
+img {
+    height: 100%; 
+    width: 100%; 
+   
+}
